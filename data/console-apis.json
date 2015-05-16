@@ -1,0 +1,198 @@
+{
+    "_exception": {
+        "browsers": {
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/_exception"
+            }
+        }
+    },
+    "assert": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoleassertexpression-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/console/assert"
+            }
+        }
+    },
+    "clear": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoleclear"
+            }
+        }
+    },
+    "count": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consolecountlabel"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/count"
+            }
+        }
+    },
+    "debug": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoledebugobject-object"
+            },
+            "firefox": {
+                "deprecated": true,
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/debug"
+            }
+        }
+    },
+    "dir": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoledirobject"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/dir"
+            }
+        }
+    },
+    "dirxml": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoledirxmlobject"
+            }
+        }
+    },
+    "error": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoleerrorobject-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/error"
+            }
+        }
+    },
+    "group": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consolegroupobject-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/group"
+            }
+        }
+    },
+    "groupCollapsed": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consolegroupcollapsedobject-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/groupCollapsed"
+            }
+        }
+    },
+    "groupEnd": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consolegroupend"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/groupEnd"
+            }
+        }
+    },
+    "info": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoleinfoobject-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/info"
+            }
+        }
+    },
+    "log": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consolelogobject-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/log"
+            }
+        }
+    },
+    "profile": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoleprofilelabel"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/profile"
+            }
+        }
+    },
+    "profileEnd": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoleprofileend"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/profileEnd"
+            }
+        }
+    },
+    "table": {
+        "browsers": {
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/table"
+            }
+        }
+    },
+    "time": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoletimelabel"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/time"
+            }
+        }
+    },
+    "timeEnd": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoletimeendlabel"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/timeEnd"
+            }
+        }
+    },
+    "timeStamp": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoletimestamplabel"
+            }
+        }
+    },
+    "trace": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consoletraceobject"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/trace"
+            }
+        }
+    },
+    "warn": {
+        "browsers": {
+            "chrome": {
+                "docs": "https://developer.chrome.com/devtools/docs/console-api#consolewarnobject-object"
+            },
+            "firefox": {
+                "docs": "https://developer.mozilla.org/en-US/docs/Web/API/Console/warn"
+            }
+        }
+    }
+}
