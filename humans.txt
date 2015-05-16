@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Arnold Sinclair -- Maker of the thing -- brianarn
 
 # THANKS
 
